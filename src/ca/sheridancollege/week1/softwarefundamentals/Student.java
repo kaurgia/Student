@@ -6,7 +6,7 @@
 package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
- * changes 
+ * changes made 1st time
  * @author sidhu376
  */
 public class Student {
